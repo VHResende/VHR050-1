@@ -2,5 +2,5 @@
 **Victor Resende**
 _______________
 # Regressão Logística
-**Multicolinearidade**
+**Modelos - Multicolinearidade**
 _______________
